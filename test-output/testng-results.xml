@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T12:13:36 IST" name="Default suite" finished-at="2023-12-28T12:14:03 IST" duration-ms="27427">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T12:13:36 IST" name="Default test" finished-at="2023-12-28T12:14:03 IST" duration-ms="27427">
+      <class name="Teststeps.AndroidmobileTest">
+        <test-method is-config="true" signature="setupAndroidDriver()[pri:0, instance:Teststeps.AndroidmobileTest@223191a6]" started-at="2023-12-28T12:13:36 IST" name="setupAndroidDriver" finished-at="2023-12-28T12:13:50 IST" duration-ms="13563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAndroidDriver -->
+        <test-method signature="enterWifiDetails()[pri:0, instance:Teststeps.AndroidmobileTest@223191a6]" started-at="2023-12-28T12:13:50 IST" name="enterWifiDetails" finished-at="2023-12-28T12:14:02 IST" duration-ms="12102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterWifiDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Teststeps.AndroidmobileTest@223191a6]" started-at="2023-12-28T12:14:02 IST" name="tearDown" finished-at="2023-12-28T12:14:03 IST" duration-ms="1660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Teststeps.AndroidmobileTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
